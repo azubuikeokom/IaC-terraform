@@ -150,5 +150,5 @@ variable "access-key"{
 variable "secret-key"{
     description = "a secret key of udacity3 profile"
     type = string
-    #default = "value"
+    #default = "valueg"
 }
