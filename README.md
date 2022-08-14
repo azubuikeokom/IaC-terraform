@@ -1,4 +1,4 @@
-# Note
-Use the following code before you push .tf file to github.\n
-** git filter-branch -f --index-filter 'git rm --cached -r --ignore-unmatch .terraform/ **
-Adding .terraform/ to gitignore just didn't work
+# Why Terraform?
+Terraform is an open sourced command line tool for codeing up and deploying infrastructure as code on the cloud.
+#Project's Objective
+The goal of this project is to demonstrate the use of terraform as an IaC tool; used today by cloud architects and solution experts in DevOps.
